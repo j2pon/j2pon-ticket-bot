@@ -108,7 +108,3 @@ Aşağıya projeden ekran görüntüleri ekleyebilirsin. Görselleri `screenshot
 <!-- Görsel: Ticket kanalındaki destek talebi mesajı (Components V2 veya embed + butonlar) -->
 ![Ticket mesajı](screenshots/ticket.png)
 
-### İstatistik komutları (isteğe bağlı)
-
-<!-- Görsel: /ticket-top veya /ticket-stat çıktısı -->
-![İstatistik](screenshots/stats.png)
